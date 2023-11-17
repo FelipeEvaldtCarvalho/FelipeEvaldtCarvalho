@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelipeEvaldtCarvalho)](https://github.com/FelipeEvaldtCarvalho)
+
+
+
 <!--
 **FelipeEvaldtCarvalho/FelipeEvaldtCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
