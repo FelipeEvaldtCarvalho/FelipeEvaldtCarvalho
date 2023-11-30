@@ -27,7 +27,7 @@ I am a 28-year-old front-end dev, started my journey in programming in 2021. Sin
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <a href="https://felipecarvalho.tech/" title="Portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-fff"/></a>
+<img src="https://felipecarvalho.tech/images/logo.png"/>Portfolio</a>
 
 
 <!--
