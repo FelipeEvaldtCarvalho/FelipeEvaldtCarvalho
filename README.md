@@ -3,7 +3,7 @@
 <img src="./ba3b0ad6-4659-4060-8c96-f348e16f2334.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" style="transition: transform 1s, opacity 0.3s;">
 
 <p align="left"> 
-I am a 28-year-old professional from Brazil, started my journey in programming in September 2021. Since then, I have cultivated a true passion for modern and responsive designs. My career began as an trainee in February 2022, and I now hold the position of junior frontend developer.
+I am a 28-year-old front-end dev, started my journey in programming in 2021. Since then, I have cultivated a true passion for modern and responsive designs.
 </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
