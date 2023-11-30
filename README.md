@@ -17,8 +17,32 @@ I am a 28-year-old front-end dev, started my journey in programming in 2021. Sin
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&layout=compact&theme=transparent&title_color=4cd7a9)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=FelipeEvaldtCarvalho&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeEvaldtCarvalho&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <a href="https://www.linkedin.com/in/felipe-evaldt-carvalho-9ab1461aa/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
