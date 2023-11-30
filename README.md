@@ -16,33 +16,12 @@ I am a 28-year-old front-end dev, started my journey in programming in 2021. Sin
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 
-
-<table style="max-width: 100%">
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=FelipeEvaldtCarvalho&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeEvaldtCarvalho&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+<img 
+  align="center" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github stats"
+/>
+    
 
 <a href="https://www.linkedin.com/in/felipe-evaldt-carvalho-9ab1461aa/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
