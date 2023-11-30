@@ -17,7 +17,7 @@ I am a 28-year-old front-end dev, started my journey in programming in 2021. Sin
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 
 
-<table>
+<table style="max-width: 100%">
   <tr>
     <td>
       <img
