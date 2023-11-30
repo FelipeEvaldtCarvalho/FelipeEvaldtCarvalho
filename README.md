@@ -12,7 +12,7 @@ I am a 28-year-old professional from Brazil, started my journey in programming i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-cb461b?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma)
 
