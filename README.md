@@ -5,7 +5,7 @@
 <p align="left"> 
 I am a 28-year-old front-end dev, started my journey in programming in 2021. Since then, I have cultivated a true passion for modern and responsive designs.
 </p>
-
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,14 +16,14 @@ I am a 28-year-old front-end dev, started my journey in programming in 2021. Sin
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-
+<br>
 
 <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github stats"
 />
-
+<br>
     
 
 <a href="https://www.linkedin.com/in/felipe-evaldt-carvalho-9ab1461aa/" title="LinkedIn" target="_blank">
