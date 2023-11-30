@@ -1,6 +1,6 @@
 ### Hello world!👋
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&layout=compact&theme=transparent&title_color=4cd7a9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&layout=compact&theme=transparent&title_color=4cd7a9)
 
 
 <!--
