@@ -6,13 +6,17 @@
 I am a 28-year-old professional from Brazil, started my journey in programming in September 2021. Since then, I have cultivated a true passion for modern and responsive designs. My career began as an trainee in February 2022, and I now hold the position of junior frontend developer.
 </p>
 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-cb461b?style=for-the-badge&logo=jest&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&layout=compact&theme=transparent&title_color=4cd7a9)
 
