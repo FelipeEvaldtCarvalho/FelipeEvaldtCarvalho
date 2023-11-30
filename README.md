@@ -20,6 +20,15 @@ I am a 28-year-old front-end dev, started my journey in programming in 2021. Sin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeEvaldtCarvalho&layout=compact&theme=transparent&title_color=4cd7a9)
 
+<a href="https://www.linkedin.com/in/felipe-evaldt-carvalho-9ab1461aa/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://wa.me/+5551993871466" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<a href="https://felipecarvalho.tech/" title="Portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-fff"/></a>
+
 
 <!--
 **FelipeEvaldtCarvalho/FelipeEvaldtCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
